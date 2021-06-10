@@ -2,8 +2,8 @@
 
 > Build a hover board on vanilla js
 
-### [Demo]()
-[![IMAGE ALT TEXT HERE](./uploads/screen.png)]()
+### [Demo](http://hoverboard-js-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://nimb.ws/cDO2TJ)
 
 ### Get started
 
